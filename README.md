@@ -6,18 +6,19 @@
 * Software Engineer
 * I like music, math, biology, free software, terminal (it's not that I don't like GUI apps, but I'm more productive with terminal), animals, astronomy etc (It's many things, but I like almost everthing)
 * Main editor == [<img src="https://github.com/victor4pinheiro/victor4pinheiro/blob/main/vim_on_fire.gif" height="30em" alt="Vim on fire logo" title="Vim on fire logo"/>](https://www.vim.org/)
-* Main browser == Firefox Slightly
+
+If you want to use my dotfiles (especially of Vim), check this [repository](https://github.com/victor4pinheiro/dotfiles).
 
 ## About my OS
 <pre>
                    -`                    arch@arch 
                   .o+`                   --------- 
                  `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                  Kernel: 5.11.4-rt11 
+                `+oooo:                  Kernel: 5.11.4-rt11
                `+oooooo:                 Shell: fish
-               -+oooooo+:                Resolution: 1366x768
-             `/:-:++oooo+:               Terminal: kitty
-            `/++++/+++++++:              WM: spectrwm
+               -+oooooo+:                Terminal: kitty
+             `/:-:++oooo+:               WM: spectrwm
+            `/++++/+++++++:              
            `/++++++++++++++:             
           `/+++ooooooooooooo/`           
          ./ooosssso++osssssso+`          

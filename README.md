@@ -1,8 +1,7 @@
 ## About Me
 ![GitHub followers](https://img.shields.io/github/followers/victor4pinheiro?style=social)
 [![Linkedin: victor4pinheiro](https://img.shields.io/badge/-victor4pinheiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-4-pinheiro)](https://www.linkedin.com/in/victor-4-pinheiro)
-[![GitHub license](https://img.shields.io/github/license/victor4pinheiro/victor4pinheiro?color=purple)](https://github.com/victor4pinheiro/victor4pinheiro/blob/main/LICENSE)
-
+[![GitHub license](https://img.shields.io/github/license/victor4pinheiro/victor4pinheiro)](https://github.com/victor4pinheiro/victor4pinheiro/blob/main/LICENSE)
 Work: Software Engineer
 Hobbys:
 * Play chess on chess.com and analyse on lichess.org

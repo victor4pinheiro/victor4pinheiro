@@ -11,9 +11,10 @@ Hobbys:
 * Watch the sky and stars
 * Pet my cats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor4pinheiro&theme=aura)](https://github.com/victor4pinheiro/github-readme-stats)
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor4pinheiro&show_icons=true&theme=aura)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor4pinheiro&show_icons=true&theme=aura" alt="Victor's GitHub stats" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor4pinheiro&theme=aura" alt="Top Langs" align = "center"/>
+</p>
 
 ## About my OS
 

@@ -12,8 +12,8 @@ Hobbys:
 * Pet my cats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor4pinheiro&show_icons=true&theme=aura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor4pinheiro&layout=compact&langs_count=7&theme=aura">
+  <img height="180em" src="https://github-readme-stats-victor4pinheiro.vercel.app/api?username=victor4pinheiro&show_icons=true&theme=aura">
+  <img height="180em" src="https://github-readme-stats-victor4pinheiro.vercel.app/api/top-langs/?username=victor4pinheiro&layout=compact&langs_count=7&theme=aura">
 </div>
 
 ## About my OS

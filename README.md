@@ -3,8 +3,10 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/victor4pinheiro?style=for-the-badge)
-[![Linkedin: victor4pinheiro](https://img.shields.io/badge/-victor4pinheiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-4-pinheiro)](https://www.linkedin.com/in/victor-4-pinheiro)
+<a href="https://github.com/victor4pinheiro"><img alt="Github of victor4pinheiro" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://gitlab.com/victor4pinheiro"><img alt="Gitlab of victor4pinheiro" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/victor-4-pinheiro"><img alt="Linkedin of victor4pinheiro" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/victor4pinheiro"><img alt="Twitter of victor4pinheiro" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </div>
 
@@ -52,3 +54,12 @@ If you want to use my dotfiles (especially of Neovim), check this [repository](h
   <img height="180em" src="https://github-readme-stats-victor4pinheiro.vercel.app/api?username=victor4pinheiro&show_icons=true&theme=aura">
   <img height="180em" src="https://github-readme-stats-victor4pinheiro.vercel.app/api/top-langs/?username=victor4pinheiro&layout=compact&langs_count=7&theme=aura">
 </div>
+
+
+<h4>DISCLAIMER:</h4>
+
+1. The images of ArchLinux, Docker, Neovim, Python, Rust and Z Shell are from their sites.
+
+2. The images of JavaScript and C are from wikimedia.
+
+3. I'll be using Gitlab for awhile, so always check my [Gitlab](https://gitlab.com/victor4pinheiro).

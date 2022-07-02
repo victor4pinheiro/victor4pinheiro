@@ -1,8 +1,12 @@
 <h2 align="center">Hi! My name is Victor!</h2>
 <h3 align="center">I'm a software engineer that like every phase of a application and specially Linux!</h3>
+
+<div align="center">
+
 ![GitHub followers](https://img.shields.io/github/followers/victor4pinheiro?style=for-the-badge)
 [![Linkedin: victor4pinheiro](https://img.shields.io/badge/-victor4pinheiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-4-pinheiro)](https://www.linkedin.com/in/victor-4-pinheiro)
-[![GitHub license](https://img.shields.io/github/license/victor4pinheiro/victor4pinheiro?style=for-the-badge)](https://github.com/victor4pinheiro/victor4pinheiro/blob/main/LICENSE)
+
+</div>
 
 My projects are:
 * Task-to-do: Backend Java project to create a task to do similar to Microsoft To Do and persist data on JSON using [gson](https://github.com/google/gson). It's not public yet, but we (my team and I) will refactor some code and add frontend and make this public.

@@ -43,11 +43,11 @@ My hobbies are:
 
 * OS: [Arch Linux x86_64](https://archlinux.org/)
 * Kernel: [Linux Zen](https://github.com/zen-kernel/zen-kernel)
-* Shell: [ZSH](https://www.zsh.org/) with [Oh My ZSH](https://ohmyz.sh/)
+* Shell: [Fish shell](https://fishshell.com/) with [Starship](https://ohmyz.sh/)
 * WM: [SwayWM](https://swaywm.org/)
 * Status bar: [Waybar](https://github.com/Alexays/Waybar)
 * Terminal: [foot](https://codeberg.org/dnkl/foot)
-* Editor: [Neovim](https://neovim.io/) [Using VSCode at the moment due to college and time (I will use neovim more in depth at the end of the year]
+* Editor: [VSCode](https://code.visualstudio.com/)
 
 If you want to use my dotfiles, check this [repository](https://github.com/victor4pinheiro/dotfiles).
 

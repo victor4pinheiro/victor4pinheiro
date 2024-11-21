@@ -41,11 +41,11 @@ My hobbies are:
 * OS: [Arch Linux x86_64](https://archlinux.org/)
 * Shell: [Fish shell](https://fishshell.com/) with [Starship](https://starship.rs/)
 * WM: [SwayWM](https://swaywm.org/)
-* Status bar: Swaybar (sway builtin)
+* Status bar: [Waybar](https://github.com/Alexays/Waybar)
 * Terminal: [foot](https://codeberg.org/dnkl/foot)
 * Editor: [Neovim](https://neovim.io/)
 
-If you want to use my dotfiles, check this [repository](https://github.com/victor4pinheiro/dotfiles) and for neovim, check [The Primeagen Config](https://github.com/ThePrimeagen/init.lua).
+If you want to use my dotfiles, check this [repository](https://github.com/victor4pinheiro/dotfiles) and for neovim, check [this](https://github.com/victor4pinheiro/nvim).
 
 <h4>DISCLAIMER:</h4>
 
